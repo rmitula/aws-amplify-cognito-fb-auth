@@ -1,3 +1,5 @@
+html { overflow-y: scroll; }
+
 body {
     margin: 0;
     padding: 0;
@@ -17,21 +19,17 @@ code {
     monospace;
 }
 
-.navbar-bg {
-    background-color: #232F3E !important;
-}
 
 .navbar {
     min-height: 70px;
 }
 
 .nav-link {
-    color: white !important;
+    color: black !important;
     font-weight: bold;
 }
 
 .logout {
-    color: white !important;
     font-weight: bold;
     cursor: pointer;
 }
@@ -45,13 +43,13 @@ code {
 .form {
     width: 100%;
     max-width: 350px;
-    margin: 40px auto 0;
+    margin: 20px auto 0;
 }
 
 .image {
     display: block;
-    margin: auto auto 25px;
-    width: 50%;
+    margin: auto auto 15px;
+    width: 30%;
 }
 
 .purple-button {

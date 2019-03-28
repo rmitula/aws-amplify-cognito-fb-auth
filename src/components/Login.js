@@ -52,7 +52,6 @@ class Login extends Component {
                         object
                         className="image"
                         src={logo}
-
                         alt="Generic placeholder image"
                     />
 

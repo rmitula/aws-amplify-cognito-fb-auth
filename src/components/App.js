@@ -81,7 +81,7 @@ class App extends Component {
             !this.state.isAuthenticating &&
             <div className="App">
                 <div>
-                    <Navbar className="navbar-bg" dark expand="md">
+                    <Navbar light expand="md">
                         <NavbarBrand tag={Link} to="/"><strong>aws-cognito-auth</strong></NavbarBrand>
                         <NavbarToggler onClick={this.toggle}/>
                         <Collapse isOpen={this.state.isOpen} navbar>

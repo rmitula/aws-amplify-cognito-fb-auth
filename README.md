@@ -11,9 +11,6 @@ Simple React based AWS Amplify app connected with AWS Cognito & Facebook calling
 - React
 - Facebook Login API
 
-## Demo
-![](.README_images/showcase.gif)
-
 ## Configuration
 
 config.js
